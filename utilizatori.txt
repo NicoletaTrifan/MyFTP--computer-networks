@@ -1,0 +1,6 @@
+USERNAME        PASSWORD (ENCRYPTED)               PASSWORD(DECRYPTED)       
+username1       11196828286788167                  paSSWORD
+username2       11196828286788167                  paSSWORD
+aliona03        76961141151001135656               Master99
+mihaela         1119611311010996                   parola
+nicoleta        113100115107                       retle
